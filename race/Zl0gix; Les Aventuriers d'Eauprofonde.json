@@ -1,0 +1,188 @@
+{
+    "_meta": {
+		"sources" :[
+			{
+				"json": "HomebrewAventuriersDEauprofonde",
+				"abbreviation": "HAE",
+				"full": "Homebrew : Les Aventuriers d'Eauprofonde",
+				"authors": [
+					"Zl0gix"
+				],
+				"convertedBy": "Zl0gix",
+				"version": "1.0"
+			}
+		],
+		"dateadded": "1708456473",
+		"dateLastModified": "1708456474"
+    },
+    "race": [
+
+    ],
+    "subrace": [
+		{
+			"name": "Mark of Making",
+			"source": "ERLW",
+			"raceName": "Gnome",
+			"raceSource": "HAE",
+			"page": 1,
+			"ability": [
+				{
+					"int": 2,
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"wis",
+							"cha"
+						],
+						"count": 1
+					}
+				}
+			],
+			"darkvision": 60,
+			"traitTags": [
+				"Dragonmark",
+				"Skill Bonus Dice",
+				"Tool Bonus Dice"
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisansTool": 1
+				}
+			],
+			"additionalSpells": [
+				{
+					"expanded": {
+						"s1": [
+							"identify",
+							"tenser's floating disk"
+						],
+						"s2": [
+							"continual flame",
+							"magic weapon"
+						],
+						"s3": [
+							"conjure barrage",
+							"elemental weapon"
+						],
+						"s4": [
+							"fabricate",
+							"stone shape"
+						],
+						"s5": [
+							"creation"
+						]
+					},
+					"ability": "int",
+					"known": {
+						"1": [
+							"mending#c",
+							"magic weapon"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Artificer's Lore",
+					"entries": [
+						"Whenever you make an Intelligence ({@skill History}) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Tinker",
+					"entries": [
+						"You have proficiency with artisan's tools ({@item tinker's tools|phb}). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.",
+						"When you create a device, choose one of the following options:",
+						{
+							"type": "entries",
+							"name": "Clockwork Toy",
+							"entries": [
+								"This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Fire Starter",
+							"entries": [
+								"The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Music Box",
+							"entries": [
+								"When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed."
+							]
+						}
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Artisan's Intuition",
+					"entries": [
+						"When you make an {@skill Arcana} check or an ability check involving {@filter artisan's tools|items|source=phb|miscellaneous=mundane|type=artisan's tools}, you can roll a {@dice d4} and add the number rolled to the ability check."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Maker's Gift",
+					"entries": [
+						"You gain proficiency with one type of artisan's tools of your choice."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spellsmith",
+					"entries": [
+						"You know the {@spell mending} cantrip. You can also cast the {@spell magic weapon} spell with this trait. When you do so, the spell lasts for 1 hour and doesn't require {@status concentration}. Once you cast the spell with this trait, you can't do so again until you finish a long rest. Intelligence is your spellcasting ability for these spells."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Spells of the Mark",
+					"entries": [
+						"If you have the Spellcasting or the Pact Magic class feature, the spells on the Mark of Making Spells table are added to the spell list of your spellcasting class.",
+						{
+							"type": "table",
+							"caption": "Mark of Making Spells",
+							"colLabels": [
+								"Spell Level",
+								"Spells"
+							],
+							"colStyles": [
+								"col-2 text-center",
+								"col-10"
+							],
+							"rows": [
+								[
+									"1st",
+									"{@spell identify}, {@spell Tenser's floating disk}"
+								],
+								[
+									"2nd",
+									"{@spell continual flame}, {@spell magic weapon}"
+								],
+								[
+									"3rd",
+									"{@spell conjure barrage}, {@spell elemental weapon}"
+								],
+								[
+									"4th",
+									"{@spell fabricate}, {@spell stone shape}"
+								],
+								[
+									"5th",
+									"{@spell creation}"
+								]
+							]
+						}
+					]
+				}
+			]
+		}
+    ]
+}
