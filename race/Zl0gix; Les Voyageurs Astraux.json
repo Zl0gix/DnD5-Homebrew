@@ -1,0 +1,150 @@
+{
+    "_meta": {
+		"sources": [
+			{
+				"json": "HomebrewLesVoyageursAstraux",
+				"abbreviation": "HVA",
+				"full": "Homebrew : Les Voyageurs Astraux",
+				"authors": [
+					"Zl0gix"
+				],
+				"convertedBy": [
+					"Zl0gix"
+				],
+				"version": "1.0.0"
+			}
+		],
+        "dateAdded": 1708456473,
+		"dateLastModified": 1708456474
+    },
+    "race": [
+        {
+			"name": "Shifter-Werewolf",
+			"source": "HVA",
+			"page": 32,
+			"lineage": "VRGR",
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"acrobatics",
+							"athletics",
+							"intimidation",
+							"survival"
+						]
+					}
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Bestial Instincts",
+					"entries": [
+						"Channeling the beast within, you have proficiency in one of the following skills of your choice: {@skill Acrobatics}, {@skill Athletics}, {@skill Intimidation}, or {@skill Survival}."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were in dim light. You discern colors in that darkness only as shades of gray."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Shifting",
+					"entries": [
+						"As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 × your proficiency bonus. You can shift a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.",
+						"Whenever you shift, you gain an additional benefit based on one of the following options (choose when you select this race):",
+						{
+							"type": "list",
+							"items": [
+								{
+									"type": "item",
+									"name": "Beasthide",
+									"entry": "You gain {@dice 1d6} additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class."
+								}
+							],
+							"style": "list-hang-notitle"
+						}
+					]
+				},
+                {
+                    "type": "entries",
+                    "name": "Shapechanger",
+                    "entries": [
+                        "You can use your action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into your true form, which is humanoid. Your statistics, other than your size, AC and strength, are the same in each form. Any equipment you are wearing or carrying isn't transformed. You revert to your true form if you die."
+                    ]
+                }
+			],
+			"hasFluff": true,
+			"hasFluffImages": true,
+			"_versions": [
+				{
+					"name": "Shifter-Werewolf; Beasthide",
+					"source": "HVA",
+					"_mod": {
+						"entries": {
+							"mode": "replaceArr",
+							"replace": "Shifting",
+							"items": {
+								"name": "Shifting (Beasthide)",
+								"type": "entries",
+								"entries": [
+									"As a bonus action, you can assume a more bestial appearance. This transformation lasts for 1 minute, until you die, or until you revert to your normal appearance as a bonus action. When you shift, you gain temporary hit points equal to 2 × your proficiency bonus + {@dice 1d6}, and you regain all expended uses when you finish a long rest.",
+									"While shifted, you have a +1 bonus to your Armor Class."
+								]
+							}
+						}
+					}
+				}
+			]
+		}
+    ],
+    "subrace": [
+        {
+			"name": "Beasthide",
+			"source": "HVA",
+			"raceName": "Shifter-Werewolf",
+			"raceSource": "HVA",
+			"page": 34,
+			"ability": [
+				{
+					"con": 2,
+					"str": 1
+				}
+			],
+			"traitTags": [
+				"Natural Armor"
+			],
+			"skillProficiencies": [
+				{
+					"athletics": true
+				}
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Natural Athlete",
+					"entries": [
+						"You have proficiency in the {@skill Athletics} skill."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Shifting Feature",
+					"entries": [
+						"Whenever you shift, you gain {@dice 1d6} additional temporary hit points. While shifted, you have a +1 bonus to your Armor Class."
+					]
+				}
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		}
+    ]
+}
