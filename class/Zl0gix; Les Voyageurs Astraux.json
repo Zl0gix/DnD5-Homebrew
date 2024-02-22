@@ -30,7 +30,7 @@
     "class": [
 		{
 			"name": "Ranger (Spell-less)",
-			"source": "HomebrewVoyageursAstraux",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 5,
 			"hd": {
 				"number": 1,
@@ -197,49 +197,49 @@
 				}
 			],
 			"classFeatures": [
-				"Favored Enemy|Ranger (Spell-less)|HomebrewVoyageursAstraux|1",
-				"Natural Explorer|Ranger (Spell-less)|HomebrewVoyageursAstraux|1",
-				"Fighting Style|Ranger (Spell-less)|HomebrewVoyageursAstraux|2",
-				"Combat Superiority|Ranger (Spell-less)|HomebrewVoyageursAstraux|2",
+				"Favored Enemy|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|1",
+				"Natural Explorer|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|1",
+				"Fighting Style|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|2",
+				"Combat Superiority|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|2",
 				{
-					"classFeature": "Ranger Archetype|Ranger (Spell-less)|HomebrewVoyageursAstraux|3",
+					"classFeature": "Ranger Archetype|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|3",
 					"gainSubclassFeature": true
 				},
-				"Primeval Awareness|Ranger (Spell-less)|HomebrewVoyageursAstraux|3",
-				"Poultices|Ranger (Spell-less)|HomebrewVoyageursAstraux|3",
-				"Ability Score Improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|4",
-				"Extra Attack|Ranger (Spell-less)|HomebrewVoyageursAstraux|5",
-				"Additional Maneuvers|Ranger (Spell-less)|HomebrewVoyageursAstraux|5",
-				"Favored Enemy and Natural Explorer improvements|Ranger (Spell-less)|HomebrewVoyageursAstraux|6",
+				"Primeval Awareness|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|3",
+				"Poultices|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|3",
+				"Ability Score Improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|4",
+				"Extra Attack|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|5",
+				"Additional Maneuvers|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|5",
+				"Favored Enemy and Natural Explorer improvements|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|6",
 				{
-					"classFeature": "Ranger Archetype feature|Ranger (Spell-less)|HomebrewVoyageursAstraux|7",
+					"classFeature": "Ranger Archetype feature|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|7",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|8",
-				"Land's Stride|Ranger (Spell-less)|HomebrewVoyageursAstraux|8",
-				"Natural Antivenom|Ranger (Spell-less)|HomebrewVoyageursAstraux|9",
-				"Additional Maneuvers|Ranger (Spell-less)|HomebrewVoyageursAstraux|9",
-				"Hide in Plain Sight|Ranger (Spell-less)|HomebrewVoyageursAstraux|10",
-				"Natural Explorer improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|10",
+				"Ability Score Improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|8",
+				"Land's Stride|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|8",
+				"Natural Antivenom|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|9",
+				"Additional Maneuvers|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|9",
+				"Hide in Plain Sight|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|10",
+				"Natural Explorer improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|10",
 				{
-					"classFeature": "Ranger Archetype feature|Ranger (Spell-less)|HomebrewVoyageursAstraux|11",
+					"classFeature": "Ranger Archetype feature|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|11",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|12",
-				"Call Natural Allies|Ranger (Spell-less)|HomebrewVoyageursAstraux|13",
-				"Additional Maneuvers|Ranger (Spell-less)|HomebrewVoyageursAstraux|13",
-				"Vanish|Ranger (Spell-less)|HomebrewVoyageursAstraux|14",
-				"Favored Enemy improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|14",
+				"Ability Score Improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|12",
+				"Call Natural Allies|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|13",
+				"Additional Maneuvers|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|13",
+				"Vanish|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|14",
+				"Favored Enemy improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|14",
 				{
-					"classFeature": "Ranger Archetype feature|Ranger (Spell-less)|HomebrewVoyageursAstraux|15",
+					"classFeature": "Ranger Archetype feature|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|15",
 					"gainSubclassFeature": true
 				},
-				"Ability Score Improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|16",
-				"Relentless|Ranger (Spell-less)|HomebrewVoyageursAstraux|17",
-				"Additional Maneuvers|Ranger (Spell-less)|HomebrewVoyageursAstraux|17",
-				"Feral Senses|Ranger (Spell-less)|HomebrewVoyageursAstraux|18",
-				"Ability Score Improvement|Ranger (Spell-less)|HomebrewVoyageursAstraux|19",
-				"Foe Slayer|Ranger (Spell-less)|HomebrewVoyageursAstraux|20"
+				"Ability Score Improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|16",
+				"Relentless|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|17",
+				"Additional Maneuvers|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|17",
+				"Feral Senses|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|18",
+				"Ability Score Improvement|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|19",
+				"Foe Slayer|Ranger (Spell-less)|HomebrewLesVoyageursAstraux|20"
 			],
 			"subclassTitle": "Ranger Archetype",
 			"fluff": [
@@ -538,9 +538,9 @@
 		{
 			"name": "Hunter",
 			"shortName": "Hunter",
-			"source": "HomebrewVoyageursAstraux",
+			"source": "HomebrewLesVoyageursAstraux",
 			"className": "Ranger (Spell-less)",
-			"classSource": "HomebrewVoyageursAstraux",
+			"classSource": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"subclassFeatures": [
