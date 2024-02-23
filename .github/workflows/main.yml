@@ -18,12 +18,20 @@ jobs:
                 uses: actions/setup-node@master
                 with:
                     node-version: ${{ matrix.node-version }}
-           
-            -   name: uh oh
-                run: echo $NODE_PATH
 
             -   name: Install dependencies
                 run: npm ci
 
             -   name: Run tests
                 run: npm test
+
+            -   name: Setup Git config 
+                run: |
+                    git config user.name "GitHub Actions Bot"
+                    git config user.email "<>"
+
+            -   name: Commit changes
+                run: |
+                    git add .
+                    git commit -m "Github Actions Bot - Lint/Test"
+                    git push
