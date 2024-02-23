@@ -2,9 +2,9 @@
     "_meta": {
 		"sources": [
 			{
-				"json": "HomebrewLesVoyageursAstraux",
-				"abbreviation": "HVA",
-				"full": "Homebrew : Les Voyageurs Astraux",
+				"json": "HomebrewLesVoyageursAstrauxRaces",
+				"abbreviation": "HVAR",
+				"full": "Homebrew : Les Voyageurs Astraux (Races)",
 				"authors": [
 					"Zl0gix"
 				],
@@ -20,7 +20,7 @@
     "race": [
         {
 			"name": "Shifter-Werewolf",
-			"source": "HVA",
+			"source": "HomebrewLesVoyageursAstrauxRaces",
 			"page": 32,
 			"lineage": "VRGR",
 			"size": [
@@ -87,7 +87,7 @@
 			"_versions": [
 				{
 					"name": "Shifter-Werewolf; Beasthide",
-					"source": "HVA",
+					"source": "HomebrewLesVoyageursAstrauxRaces",
 					"_mod": {
 						"entries": {
 							"mode": "replaceArr",
@@ -109,9 +109,9 @@
     "subrace": [
         {
 			"name": "Beasthide",
-			"source": "HVA",
+			"source": "HomebrewLesVoyageursAstrauxRaces",
 			"raceName": "Shifter-Werewolf",
-			"raceSource": "HVA",
+			"raceSource": "HomebrewLesVoyageursAstrauxRaces",
 			"page": 34,
 			"ability": [
 				{
