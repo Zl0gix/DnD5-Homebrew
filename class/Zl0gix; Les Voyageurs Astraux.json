@@ -48,7 +48,7 @@
     "subclassFeature": [
         {
 			"name": "Hunter",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -66,7 +66,7 @@
 		},
 		{
 			"name": "Horde Breaker",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -81,7 +81,7 @@
 		},
 		{
 			"name": "Hunter's Prey",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -114,7 +114,7 @@
 		},
 		{
 			"name": "Colossus Slayer",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -129,7 +129,7 @@
 		},
 		{
 			"name": "Giant Killer",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -144,7 +144,7 @@
 		},
 		{
 			"name": "Defensive Tactics",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -177,7 +177,7 @@
 		},
 		{
 			"name": "Escape the Horde",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Multiattack Defense",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -207,7 +207,7 @@
 		},
 		{
 			"name": "Steel Will",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Multiattack",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -251,7 +251,7 @@
 		},
 		{
 			"name": "Volley",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -266,7 +266,7 @@
 		},
 		{
 			"name": "Whirlwind Attack",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -281,7 +281,7 @@
 		},
 		{
 			"name": "Evasion",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -296,7 +296,7 @@
 		},
 		{
 			"name": "Stand Against the Tide",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -311,7 +311,7 @@
 		},
 		{
 			"name": "Superior Hunter's Defense",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
@@ -344,7 +344,7 @@
 		},
 		{
 			"name": "Uncanny Dodge",
-			"source": "PHB",
+			"source": "HomebrewLesVoyageursAstraux",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
