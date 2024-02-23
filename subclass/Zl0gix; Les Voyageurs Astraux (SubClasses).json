@@ -30,10 +30,10 @@
 			"page": 93,
 			"srd": true,
 			"subclassFeatures": [
-				"Hunter|Ranger (Spell-less)||Hunter||3",
-				"Defensive Tactics|Ranger (Spell-less)||Hunter||7",
-				"Multiattack|Ranger (Spell-less)||Hunter||11",
-				"Superior Hunter's Defense|Ranger (Spell-less)||Hunter||15"
+				"Hunter|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|3",
+				"Defensive Tactics|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|7",
+				"Multiattack|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|11",
+				"Superior Hunter's Defense|Ranger (Spell-less)|HomebrewLesVoyageursAstrauxSubClasses|Hunter|HomebrewLesVoyageursAstrauxSubClasses|15"
 			]
 		}
 	],
@@ -52,7 +52,7 @@
 				"Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Hunter's Prey|Ranger (Spell-less)||Hunter||3"
+					"subclassFeature": "Hunter's Prey|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|3"
 				}
 			]
 		},
@@ -90,15 +90,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Colossus Slayer|Ranger (Spell-less)||Hunter||3"
+							"subclassFeature": "Colossus Slayer|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Giant Killer|Ranger (Spell-less)||Hunter||3"
+							"subclassFeature": "Giant Killer|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Horde Breaker|Ranger (Spell-less)||Hunter||3"
+							"subclassFeature": "Horde Breaker|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|3"
 						}
 					]
 				}
@@ -153,15 +153,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Escape the Horde|Ranger (Spell-less)||Hunter||7"
+							"subclassFeature": "Escape the Horde|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|7"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Multiattack Defense|Ranger (Spell-less)||Hunter||7"
+							"subclassFeature": "Multiattack Defense|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|7"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Steel Will|Ranger (Spell-less)||Hunter||7"
+							"subclassFeature": "Steel Will|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|7"
 						}
 					]
 				}
@@ -231,11 +231,11 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Volley|Ranger (Spell-less)||Hunter||11"
+							"subclassFeature": "Volley|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|11"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Whirlwind Attack|Ranger (Spell-less)||Hunter||11"
+							"subclassFeature": "Whirlwind Attack|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|11"
 						}
 					]
 				}
@@ -320,15 +320,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Evasion|Ranger (Spell-less)||Hunter||15"
+							"subclassFeature": "Evasion|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|15"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Stand Against the Tide|Ranger (Spell-less)||Hunter||15"
+							"subclassFeature": "Stand Against the Tide|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|15"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Uncanny Dodge|Ranger (Spell-less)||Hunter||15"
+							"subclassFeature": "Uncanny Dodge|Ranger (Spell-less)||Hunter|HomebrewLesVoyageursAstrauxSubClasses|15"
 						}
 					]
 				}
