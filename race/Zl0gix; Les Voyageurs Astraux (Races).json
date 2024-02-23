@@ -26,6 +26,12 @@
 			"size": [
 				"M"
 			],
+			"ability": [
+				{
+					"con": 2,
+					"str": 1
+				}
+			],
 			"speed": 30,
 			"darkvision": 60,
 			"skillProficiencies": [
@@ -113,12 +119,6 @@
 			"raceName": "Shifter-Werewolf",
 			"raceSource": "HomebrewLesVoyageursAstrauxRaces",
 			"page": 34,
-			"ability": [
-				{
-					"con": 2,
-					"str": 1
-				}
-			],
 			"traitTags": [
 				"Natural Armor"
 			],
