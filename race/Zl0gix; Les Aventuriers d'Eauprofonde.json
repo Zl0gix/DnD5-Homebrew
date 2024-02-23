@@ -8,22 +8,26 @@
 				"authors": [
 					"Zl0gix"
 				],
-				"convertedBy": "Zl0gix",
+				"convertedBy": [
+					"Zl0gix"
+				],
 				"version": "1.0"
 			}
 		],
-		"dateadded": "1708456473",
-		"dateLastModified": "1708456474"
+		"dateAdded": 1708456473,
+		"dateLastModified": 1708456474,
+		"dependencies": {
+			"race": [
+				"gnome"
+			]
+		}
     },
-    "race": [
-
-    ],
     "subrace": [
 		{
 			"name": "Mark of Making",
-			"source": "ERLW",
+			"source": "HAE",
 			"raceName": "Gnome",
-			"raceSource": "HAE",
+			"raceSource": "PHB",
 			"page": 1,
 			"ability": [
 				{
