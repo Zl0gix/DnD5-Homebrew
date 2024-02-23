@@ -2,9 +2,9 @@
     "_meta": {
         "sources": [
 			{
-				"json": "HomebrewLesVoyageursAstrauxClasses",
+				"json": "HomebrewLesVoyageursAstrauxSubClasses",
 				"abbreviation": "HVAC",
-				"full": "Homebrew : Les Voyageurs Astraux (classes)",
+				"full": "Homebrew : Les Voyageurs Astraux (subclasses)",
 				"authors": [
 					"Zl0gix"
 				],
@@ -24,7 +24,7 @@
 		{
 			"name": "Hunter",
 			"shortName": "Hunter",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"page": 93,
@@ -40,13 +40,13 @@
     "subclassFeature": [
         {
 			"name": "Hunter",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 3,
 			"entries": [
 				"Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter's path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.",
@@ -58,13 +58,13 @@
 		},
 		{
 			"name": "Horde Breaker",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -73,13 +73,13 @@
 		},
 		{
 			"name": "Hunter's Prey",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -106,13 +106,13 @@
 		},
 		{
 			"name": "Colossus Slayer",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -121,13 +121,13 @@
 		},
 		{
 			"name": "Giant Killer",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 3,
 			"header": 2,
 			"entries": [
@@ -136,13 +136,13 @@
 		},
 		{
 			"name": "Defensive Tactics",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 7,
 			"header": 2,
 			"entries": [
@@ -169,13 +169,13 @@
 		},
 		{
 			"name": "Escape the Horde",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 7,
 			"header": 2,
 			"entries": [
@@ -184,13 +184,13 @@
 		},
 		{
 			"name": "Multiattack Defense",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 7,
 			"header": 2,
 			"entries": [
@@ -199,13 +199,13 @@
 		},
 		{
 			"name": "Steel Will",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 7,
 			"header": 2,
 			"entries": [
@@ -214,13 +214,13 @@
 		},
 		{
 			"name": "Multiattack",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 11,
 			"header": 2,
 			"entries": [
@@ -243,13 +243,13 @@
 		},
 		{
 			"name": "Volley",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 11,
 			"header": 2,
 			"entries": [
@@ -258,13 +258,13 @@
 		},
 		{
 			"name": "Whirlwind Attack",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 11,
 			"header": 2,
 			"entries": [
@@ -273,13 +273,13 @@
 		},
 		{
 			"name": "Evasion",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 15,
 			"header": 2,
 			"entries": [
@@ -288,13 +288,13 @@
 		},
 		{
 			"name": "Stand Against the Tide",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 15,
 			"header": 2,
 			"entries": [
@@ -303,13 +303,13 @@
 		},
 		{
 			"name": "Superior Hunter's Defense",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 15,
 			"header": 2,
 			"entries": [
@@ -336,13 +336,13 @@
 		},
 		{
 			"name": "Uncanny Dodge",
-			"source": "HomebrewLesVoyageursAstrauxClasses",
+			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
 			"srd": true,
 			"className": "Ranger (Spell-less)",
 			"classSource": "UAModifyingClasses",
 			"subclassShortName": "Hunter",
-			"subclassSource": "HomebrewLesVoyageursAstrauxClasses",
+			"subclassSource": "HomebrewLesVoyageursAstrauxSubClasses",
 			"level": 15,
 			"header": 2,
 			"entries": [

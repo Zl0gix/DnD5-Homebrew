@@ -2,9 +2,9 @@
     "_meta": {
 		"sources" :[
 			{
-				"json": "HomebrewAventuriersDEauprofonde",
+				"json": "HomebrewAventuriersDEauprofondeSubRaces",
 				"abbreviation": "HAE",
-				"full": "Homebrew : Les Aventuriers d'Eauprofonde",
+				"full": "Homebrew : Les Aventuriers d'Eauprofonde (subraces)",
 				"authors": [
 					"Zl0gix"
 				],
@@ -20,7 +20,7 @@
     "subrace": [
 		{
 			"name": "Mark of Making",
-			"source": "HomebrewAventuriersDEauprofonde",
+			"source": "HomebrewAventuriersDEauprofondeSubRaces",
 			"raceName": "Gnome",
 			"raceSource": "PHB",
 			"page": 1,
