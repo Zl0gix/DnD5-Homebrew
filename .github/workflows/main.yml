@@ -19,6 +19,9 @@ jobs:
                 with:
                     node-version: ${{ matrix.node-version }}
            
+            -   name: uh oh
+                run: echo $NODE_PATH
+
             -   name: Install dependencies
                 run: npm ci
 
