@@ -15,12 +15,7 @@
 			}
 		],
 		"dateAdded": 1708456473,
-		"dateLastModified": 1708456474,
-		"dependencies": {
-			"race": [
-				"gnome"
-			]
-		}
+		"dateLastModified": 1708456474
     },
     "subrace": [
 		{
