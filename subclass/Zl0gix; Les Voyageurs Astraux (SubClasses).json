@@ -1,6 +1,6 @@
 {
-    "_meta": {
-        "sources": [
+	"_meta": {
+		"sources": [
 			{
 				"json": "HomebrewLesVoyageursAstrauxSubClasses",
 				"abbreviation": "HVAC",
@@ -16,11 +16,11 @@
 				"dateReleased": "2015-04-06"
 			}
 		],
-        "dateAdded": 1708456473,
+		"dateAdded": 1708456473,
 		"dateLastModified": 1708456474,
 		"_dateLastModifiedHash": "5a519457a7"
-    },
-    "subclass": [
+	},
+	"subclass": [
 		{
 			"name": "Hunter",
 			"shortName": "Hunter",
@@ -36,9 +36,9 @@
 				"Superior Hunter's Defense|Ranger (Spell-less)||Hunter||15"
 			]
 		}
-    ],
-    "subclassFeature": [
-        {
+	],
+	"subclassFeature": [
+		{
 			"name": "Hunter",
 			"source": "HomebrewLesVoyageursAstrauxSubClasses",
 			"page": 93,
@@ -349,5 +349,5 @@
 				"When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you."
 			]
 		}
-    ]
+	]
 }

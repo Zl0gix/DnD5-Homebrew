@@ -1,5 +1,5 @@
 {
-    "_meta": {
+	"_meta": {
 		"sources": [
 			{
 				"json": "HomebrewLesVoyageursAstrauxRaces",
@@ -14,11 +14,11 @@
 				"version": "1.0.0"
 			}
 		],
-        "dateAdded": 1708456473,
+		"dateAdded": 1708456473,
 		"dateLastModified": 1708456474
-    },
-    "race": [
-        {
+	},
+	"race": [
+		{
 			"name": "Shifter-Werewolf",
 			"source": "HomebrewLesVoyageursAstrauxRaces",
 			"page": 32,
@@ -74,13 +74,13 @@
 						}
 					]
 				},
-                {
-                    "type": "entries",
-                    "name": "Shapechanger",
-                    "entries": [
-                        "You can use your action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into your true form, which is humanoid. Your statistics, other than your size, AC and strength, are the same in each form. Any equipment you are wearing or carrying isn't transformed. You revert to your true form if you die."
-                    ]
-                }
+				{
+					"type": "entries",
+					"name": "Shapechanger",
+					"entries": [
+						"You can use your action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into your true form, which is humanoid. Your statistics, other than your size, AC and strength, are the same in each form. Any equipment you are wearing or carrying isn't transformed. You revert to your true form if you die."
+					]
+				}
 			],
 			"hasFluff": true,
 			"hasFluffImages": true,
@@ -105,9 +105,9 @@
 				}
 			]
 		}
-    ],
-    "subrace": [
-        {
+	],
+	"subrace": [
+		{
 			"name": "Beasthide",
 			"source": "HomebrewLesVoyageursAstrauxRaces",
 			"raceName": "Shifter-Werewolf",
@@ -146,5 +146,5 @@
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
-    ]
+	]
 }
