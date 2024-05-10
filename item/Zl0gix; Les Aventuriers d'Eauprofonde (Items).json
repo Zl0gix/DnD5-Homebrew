@@ -20,7 +20,7 @@
     "item": [
         {
             "name": "Heartfire Mantle",
-            "source": "HAE",
+            "source": "HomebrewAventuriersDEauprofondeItems",
             "type": "G",
             "rarity": "uncommon",
             "reqAttune": false,
