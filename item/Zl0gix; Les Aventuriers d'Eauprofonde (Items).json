@@ -1,51 +1,51 @@
 {
-    "_meta": {
-        "sources": [
-            {
-                "json": "HomebrewAventuriersDEauprofondeItems",
-                "abbreviation": "HAE",
-                "full": "Homebrew : Les Aventuriers d'Eauprofonde (items)",
-                "authors": [
-                    "Zl0gix",
-                    "RThib"
-                ],
-                "convertedBy": [
-                    "Zl0gix",
-                    "RThib"
-                ],
-                "version": "1.0"
-            }
-        ],
-        "dateAdded": 1708456473,
-        "dateLastModified": 1708456474
-    },
-    "item": [
-        {
-            "name": "Heartfire Mantle",
-            "source": "HomebrewAventuriersDEauprofondeItems",
-            "type": "G",
-            "rarity": "uncommon",
-            "reqAttune": false,
-            "value": 500,
-            "wondrous": true,
-            "entries": [
-                "The inside of this heavy leather cloak is decorated with the image of a roaring fireplace. Brick-like patches of leather line the rim of the cloak, which always feel fire-warmed to the touch. While wearing the cloak, you can tolerate temperatures as low as -45°C without any additional protection. Laying the cloak on the ground or hanging it on a wall with its fiery inside exposed creates as much warmth as a small campfire.",
-                "You can use an action while wearing the cloak to speak one of its two command words and activate its properties.",
-                {
-                    "type": "entries",
-                    "name": "Kindle",
-                    "entries": [
-                        "You ignite a flammable object you're holding."
-                    ]
-                },
-                {
-                    "type": "entries",
-                    "name": "Warm",
-                    "entries": [
-                        "Nonhostile creatures within 10 feet of you gain 2d6 temporary hit points. A creature with these hit points can tolerate temperatures as low as -45°C without any additional protection. Once this property of the cloak has been used, it can't be used again until the next dawn."
-                    ]
-                }
-            ]
-        }
-    ]
+	"_meta": {
+		"sources": [
+			{
+				"json": "HomebrewAventuriersDEauprofondeItems",
+				"abbreviation": "HAE",
+				"full": "Homebrew : Les Aventuriers d'Eauprofonde (items)",
+				"authors": [
+					"Zl0gix",
+					"RThib"
+				],
+				"convertedBy": [
+					"Zl0gix",
+					"RThib"
+				],
+				"version": "1.0"
+			}
+		],
+		"dateAdded": 1708456473,
+		"dateLastModified": 1708456474
+	},
+	"item": [
+		{
+			"name": "Heartfire Mantle",
+			"source": "HomebrewAventuriersDEauprofondeItems",
+			"type": "G",
+			"rarity": "uncommon",
+			"reqAttune": false,
+			"value": 500,
+			"wondrous": true,
+			"entries": [
+				"The inside of this heavy leather cloak is decorated with the image of a roaring fireplace. Brick-like patches of leather line the rim of the cloak, which always feel fire-warmed to the touch. While wearing the cloak, you can tolerate temperatures as low as -45°C without any additional protection. Laying the cloak on the ground or hanging it on a wall with its fiery inside exposed creates as much warmth as a small campfire.",
+				"You can use an action while wearing the cloak to speak one of its two command words and activate its properties.",
+				{
+					"type": "entries",
+					"name": "Kindle",
+					"entries": [
+						"You ignite a flammable object you're holding."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Warm",
+					"entries": [
+						"Nonhostile creatures within 10 feet of you gain 2d6 temporary hit points. A creature with these hit points can tolerate temperatures as low as -45°C without any additional protection. Once this property of the cloak has been used, it can't be used again until the next dawn."
+					]
+				}
+			]
+		}
+	]
 }
