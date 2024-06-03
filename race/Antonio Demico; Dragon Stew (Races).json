@@ -1,0 +1,157 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "AntodemicoDragonStew",
+                "abbreviation": "DS",
+                "full": "Dragon Stew",
+                "authors": [
+                    "Antonio Demico"
+                ],
+                "convertedBy": [
+                    "Zl0gix"
+                ],
+                "version": "1.0",
+                "url": "https://anyflip.com/tcjtu/pmtz"
+            }
+        ],
+        "dateAdded": 0,
+        "dateLastModified": 0
+    },
+    "race": [
+        {
+            "name": "Harvestborn",
+            "source": "AntodemicoDragonStew",
+            "page": 6,
+            "size": [
+                "S",
+                "M"
+            ],
+            "traitTags": [
+                "Tool Proficiency"
+            ],
+            "toolProficiencies": [
+                {
+                    "herbalism kit": true
+                }
+            ],
+            "languageProficiencies": [
+                {
+                    "common": true
+                }
+            ],
+            "entries": [
+                {
+                    "type": "entries",
+                    "name": "Tremorsense",
+                    "entries": [
+                        "You gain {@sense tremorsense|MM} within 20 feets. Your connection with the soil allows you to instinctually sense the source of the most minute vibrations within 20 feet. You can automatically pinpoint the location of anything moving or otherwise emitting vibrations that is in contact with the ground and within range, even in complete darkness. The source of the vibrations must itself be in contact with the same ground as you, and it must be moving or otherwise emitting vibrations. As long as a creature is taking physical actions, including casting spells with somatic components, they are considered moving; they don't have to move from place to place for you to detect them."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Familial Telepathy",
+                    "entries": [
+                        "You can communicate telepathically with any Harvestborn within 30 feet of you, so long as both of you are in contact with the ground. You do not need to see the Harvestborn you wish to address to speak with them telepathically. You can only speak telepathically to one Harvestborn at a time."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Refreshing Repose",
+                    "entries": [
+                        "You can choose to sustain yourself not by eating, but by spending your long rest in contact with soil. When you do so, small, thin roots grow from your body and burrow into the ground. These roots shrivel once the long rest is over. In order for you to obtain sustenance from the ground, it needs to be soft soil in which your roots can burrow for your long rest. Stone, wood, or any other surface where a plant would not be able to grow can’t give you enough nutrients to use this trait. You are unable to digest animal products but can sustain yourself with a plant-based diet if the correct soil is unavailable to you."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Instinctive Herbalist",
+                    "entries": [
+                        "Whenever you make an Intelligence (Nature) check related to the nature and uses of any plants, you are considered proficient in the Nature skill and double your proficiency bonus to the check, instead of your normal proficiency bonus."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Languages",
+                    "entries": [
+                        "You can speak, read, and write Common and communicate telepathically with any Harvestborn. The telepathic communication of the Harvestborn is less of a language and more of a direct line of instinctual communication, and therefore cannot be written."
+                    ]
+                }
+            ]
+        }
+    ],
+    "subrace": [
+        {
+            "name": "Flowerling",
+            "source": "AntodemicoDragonStew",
+            "raceName": "Harvestborn",
+            "raceSource": "AntodemicoDragonStew",
+            "speed": 30,
+            "size": [
+                "M"
+            ],
+            "age": {
+                "mature": 15,
+                "max": 200
+            },
+            "heightAndWeight": {
+                "baseHeight": 50,
+                "heightMod": "2d4",
+                "baseWeight": 110,
+                "weightMod": "7d10"
+            },
+            "entries": [
+                {
+                    "type": "entries",
+                    "name": "Age",
+                    "entries": [
+                        "The inherent magic that flows through their veins gives flowerlings long lifespans, maturing very quickly in their early teens and living 200 years on average."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Size",
+                    "entries": [
+                        "Flowerlings stand between 5 and 6 feet tall and average from 110 to 180 pounds. Your size is Medium."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Intrinsically Magic",
+                    "entries": [
+                        "The magic imbued in the soil that birthed you has seeped into your being. You know one cantrip from the bard spell list."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Magic Aromatherapy ",
+                    "page": 0,
+                    "entries": [
+                        "The magically infused scent of your flowers calms the emotions of those around you. You can cast the spell {@spell calm emotions} without using verbal or somatic components, only leaving the scent of your flowers as a trace of your magic. Charisma is your spellcasting ability for this spell. Once you use this trait, you can’t cast Calm Emotions again until you finish a long rest."
+                    ]
+                }
+            ],
+            "additionalSpells": [
+                {
+                    "ability": "cha",
+                    "known": {
+                        "_": [
+                            {
+                                "choose": "level=0|class=Bard",
+                                "count": 1
+                            }
+                        ]
+                    },
+                    "innate": {
+                        "_": {
+                            "daily": {
+                                "1": [
+                                    "calm emotions"
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
