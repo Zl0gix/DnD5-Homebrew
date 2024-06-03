@@ -23,6 +23,7 @@
 			"name": "Harvestborn",
 			"source": "AntodemicoDragonStew",
 			"page": 6,
+            "lineage": "VRGR",
 			"size": [
 				"S",
 				"M"
@@ -62,6 +63,13 @@
 						"You can choose to sustain yourself not by eating, but by spending your long rest in contact with soil. When you do so, small, thin roots grow from your body and burrow into the ground. These roots shrivel once the long rest is over. In order for you to obtain sustenance from the ground, it needs to be soft soil in which your roots can burrow for your long rest. Stone, wood, or any other surface where a plant would not be able to grow can't give you enough nutrients to use this trait. You are unable to digest animal products but can sustain yourself with a plant-based diet if the correct soil is unavailable to you."
 					]
 				},
+                {
+                    "type": "entries",
+                    "name": "Tool Proficiency ",
+                    "entries": [
+                        "You gain proficiency with the herbalism kit."
+                    ]
+                },
 				{
 					"type": "entries",
 					"name": "Instinctive Herbalist",
@@ -114,6 +122,14 @@
 						"Flowerlings stand between 5 and 6 feet tall and average from 110 to 180 pounds. Your size is Medium."
 					]
 				},
+                {
+                    "type": "entries",
+                    "name": "Speed",
+                    "page": 0,
+                    "entries": [
+                        "Your base walking speed is 30 feet."
+                    ]
+                },
 				{
 					"type": "entries",
 					"name": "Intrinsically Magic",
