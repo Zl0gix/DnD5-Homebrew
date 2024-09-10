@@ -1,0 +1,142 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "HomebrewAventuriersDEauprofonde",
+                "abbreviation": "HAE",
+                "full": "Homebrew : Les Aventuriers d'Eauprofonde",
+                "authors": [
+                    "Zl0gix"
+                ],
+                "convertedBy": [
+                    "Zl0gix"
+                ],
+                "version": "1.0"
+            }
+        ],
+        "dateAdded": 0,
+        "dateLastModified": 0
+    },
+    "feat": [
+        {
+            "name": "Devotion",
+            "source": "HomebrewAventuriersDEauprofonde",
+            "entries": [
+                "Devotion can be a pure or foolish thing. A beloved, a nation, a cause—anything may be the object of your Devotion, but very few are worthy of it. For you the choice is clear: the love at the center of your life is worth dying or killing for, and there is no limit to your service and sacrifice on its behalf.",
+                {
+                    "type": "entries",
+                    "name": "Source of Inspiration: Its Own Reward",
+                    "entries": [
+                        "You draw inspiration from seeing your duty through to the end. You gain inspiration whenever you complete a quest, fulfill a difficult promise, or commit an act of self-sacrifice that includes grievous injury to yourself.",
+                        "{@note Complete a quest, keep a promise to your own detriment, keep an innocent safe while seriously endangering yourself, commit an act of genuine self-sacrifice.}"
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Inspiration Feature: Selfless Aid",
+                    "entries": [
+                        "Your aid is a lifeline and a steadying source of resolve. Whenever you take the Help action to aid an ally attacking a creature, you may spend your inspiration. If you do, in addition to the normal benefits of the Help action, that creature has disadvantage on attack rolls against creatures other than you until the start of your next turn."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Metamorphosis",
+            "source": "HomebrewAventuriersDEauprofonde",
+            "entries": [
+                "The trappings of daily life stifle you and the shackles of this mortal coil cannot contain you. People whose destiny is Metamorphosis seek to attain a higher mode of being. Some search for enlightenment but others turn their ambitions even higher, daring to pursue eternal life in the form of a vampire, a lich, a demon, or even a god. What will you sacrifice to walk this path?",
+                {
+                    "type": "entries",
+                    "name": "Source of Inspiration: Unburdening",
+                    "entries": [
+                        "When you gain this feature, inform your Narrator of the new form you desire (such as enlightenment, vampirism, or godhood). You gain inspiration whenever you make sacrifices to attain new lore, contacts, or items to aid your transformation.",
+                        "{@note Sever earthly attachments such as wealth or comfort, behave appropriately akin to your pursued form, spend inordinate time in your transformation’s pursuit.}"
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Inspiration Feature: Unearthly Diplomacy",
+                    "entries": [
+                        "Your unearthly aspirations grant you insights into the minds of even utterly alien beings. As an action, you may spend your inspiration to form a connection with a non-humanoid creature you can see that has a CR equal to or less than your level. You communicate freely, even if you do not share a language or the creature would be normally unable to speak. You have no control over a creature you connect with in this way but you gain an expertise die on checks made to influence it. The knowledge and awareness of a creature is limited by its intellect or perceptions, but most give you information about nearby locations, monsters in the area, and knowledge of whatever it perceived within the past day.",
+                        "This connection lasts for up to 1 hour or until you use an action to end it."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Underdog",
+            "source": "HomebrewAventuriersDEauprofonde",
+            "entries": [
+                "Some people strive towards their destiny while others are dragged there. Those fated to be Underdogs must battle adversity and survive against long odds, gradually growing into the heroes they never sought to become.",
+                {
+                    "type": "entries",
+                    "name": "Source of Inspiration: Defiance",
+                    "entries": [
+                        "You draw inspiration from striking out against oppression, defying long odds, and placing hope in the impossible. You gain inspiration whenever you score a critical hit against a creature larger than you are, roll a natural 20 on a death saving throw, openly defy a powerful being, or succeed after taking a risk with long odds.",
+                        "{@note Loudly refuse the orders of a tyrant, follow through with a convoluted or risky plan, succeed at something you were extremely likely to fail.}"
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Inspiration Feature: A Nose for Trouble",
+                    "entries": [
+                        "Get kicked around long enough and you start to know when trouble’s brewing. Whenever you or an ally you can see fails an Insight check, you can use your reaction to spend your inspiration and learn any information that would have been gained by a successful Insight check."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Knowledge",
+            "source": "HomebrewAventuriersDEauprofonde",
+            "entries": [
+                "You seek the philosopher’s stone, universal truths too vast and terrible for mortal minds to comprehend, or untold secrets hidden away from inquiring minds. Scholars and seekers of Knowledge research and pry, chipping away at their own ignorance until they reveal some fundamental truths of reality.",
+                {
+                    "type": "entries",
+                    "name": "Source of Inspiration: Learning",
+                    "entries": [
+                        "You draw inspiration from research, understanding, and gaining new insights and data. You gain inspiration whenever you make an arcane, divine, scholastic, or scientific discovery.",
+                        "{@note Closely examine a previously unknown or rare creature or phenomenon, discover something thought to be a myth or impossible, learn new information after at least 8 hours studying from a source of knowledge such as a library, book, or powerful artifact.}"
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Inspiration Feature: Critical Evaluation",
+                    "entries": [
+                        "Drawing upon a lifetime of study, you leap to accurate conclusions with only preliminary findings. As a bonus action you may spend your inspiration to quickly evaluate a creature or item you can see and accurately determine one objective attribute of your choice.",
+                        "When evaluating a creature in this way, you may determine its resistances , immunities , vulnerabilities , what languages it speaks, or its Armor Class.",
+                        "When evaluating an item in this way, you may determine if it is magical, poisonous, cursed, trapped, or its approximate value."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Comig of Age",
+            "source": "HomebrewAventuriersDEauprofonde",
+            "entries": [
+                "Not all heroes have a clear path ahead of them. Some are still finding their footing and are dreaming big all the same: of adventure, the open road, a chance to prove one’s worth, and having a life worth living.",
+                {
+                    "type": "entries",
+                    "name": "Special Feature: Finding Yourself",
+                    "entries": [
+                        "Sometimes it takes a journey to find yourself. You may exchange this destiny for another destiny at any time."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Source of Inspiration: Yes to Adventure",
+                    "entries": [
+                        "You draw inspiration from setting out with adventure in front of you. You gain inspiration whenever you achieve a personal milestone.",
+                        "{@note Join a new guild or organization, travel somewhere new and far from home, accept a new major quest or mission, change worldviews and grow as a person.}"
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Inspiration Feature: Ready to Learn",
+                    "entries": [
+                        "You haven’t had training in everything but you’re determined to give it your all anyway. As a bonus action you may spend your inspiration to gain proficiency with a weapon, armor, skill, or tool for the next hour. "
+                    ]
+                }
+            ]
+        }
+    ]
+}
